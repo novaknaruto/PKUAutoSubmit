@@ -1,4 +1,5 @@
 # PKUAutoSubmit (modified)
+麦当劳
 
 **UPDATE 2020/10/18**
 
